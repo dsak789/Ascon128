@@ -1,0 +1,55 @@
+<==== R&D Cell ====>
+git Link:	https://github.com/Jntu-Gurajada-Vizianagaram/R-D-Cell
+vercel link:	https://r-d-cell.vercel.app/
+domain:		rdcell.jntugv.edu.in
+Type: 		TXT
+Name:		_vercel
+Value:		vc-domain-verify=rdcell.jntugv.edu.in,c817fe63df3c5344bafd
+
+
+<==== Placement Cell ====>
+git Link:	https://github.com/Jntu-Gurajada-Vizianagaram/JNTUGV-Placement-cell
+vercel link:	https://jntugv-placement-cell.vercel.app/
+domain:		placementcell.jntugv.edu.in
+Type: 		TXT
+Name:		_vercel
+Value:		vc-domain-verify=placementcell.jntugv.edu.in,56b051eddbc56206e372
+
+
+<==== Examination Cell ====>
+git Link:	https://github.com/Jntu-Gurajada-Vizianagaram/jntugv-examination-cell
+vercel link:	https://jntugv-examination-cell.vercel.app/
+domain:		examininationcell.jntugv.edu.in
+Type: 		TXT
+Name:		_vercel
+Value:		vc-domain-verify=examininationcell.jntugv.edu.in,c663a9e028caa1da04ee
+
+
+<==== IQAC ====>
+git Link:	https://github.com/Jntu-Gurajada-Vizianagaram/jntugv-iqac
+vercel link:	https://jntugv-iqac.vercel.app/
+domain:		iqac.jntugv.edu.in
+Type: 		TXT
+Name:		_vercel
+Value:		vc-domain-verify=iqac.jntugv.edu.in,e2ac83829ead069fa876
+
+<==== Sports ====>
+git Link:	https://github.com/Jntu-Gurajada-Vizianagaram/JNTUGVSports
+vercel link:	https://jntugv-sports.vercel.app/
+domain:		sports.jntugv.edu.in
+Type: 		TXT
+Name:		_vercel
+Value:		vc-domain-verify=sports.jntugv.edu.in,b1c71500eed665e713d9
+
+
+<==== DMC ====>
+git Link:	https://github.com/Jntu-Gurajada-Vizianagaram/dmc-cell
+vercel link:	https://dmc-cell.vercel.app/
+domain:		dmc.jntugv.edu.in
+Type: 		TXT
+Name:		_vercel
+Value:		vc-domain-verify=dmc.jntugv.edu.in,b06b6f803b6ac8a3a0c0
+
+
+
+
